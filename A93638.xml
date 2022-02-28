@@ -1,0 +1,453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speeches of the Lord Generall Fairfax, and the officers of the armie to the Diggers at St. Georges Hill in Surry, and the Diggers severall answers and replies thereunto. Also, the manner of proclaiming the act against the kingly office by the Lord Mayor, and eight aldermen at the Royal Exchange, London. With divers letters concerning the prince to the queen. Together with the proceedings of Prince Rupert, the Earle of Ormond, and the Lord Inchiquin in Ireland. A fight at sea, and a fuller relation of the Earle of Montrosse his design for Scotland.</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93638</idno>
+            <idno type="STC">Wing S4876B</idno>
+            <idno type="STC">Thomason E530_24</idno>
+            <idno type="STC">ESTC R205683</idno>
+            <idno type="EEBO-CITATION">99864990</idno>
+            <idno type="PROQUEST">99864990</idno>
+            <idno type="VID">117223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117223)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E530[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speeches of the Lord Generall Fairfax, and the officers of the armie to the Diggers at St. Georges Hill in Surry, and the Diggers severall answers and replies thereunto. Also, the manner of proclaiming the act against the kingly office by the Lord Mayor, and eight aldermen at the Royal Exchange, London. With divers letters concerning the prince to the queen. Together with the proceedings of Prince Rupert, the Earle of Ormond, and the Lord Inchiquin in Ireland. A fight at sea, and a fuller relation of the Earle of Montrosse his design for Scotland.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>40 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLIX. [1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117223:1" rendition="simple:additions"/>
+            <p>THE SPEECHES OF THE Lord Generall Fairfax, And the Officers of the ARMIE TO The Diggers at St. Georges Hill in SURRY, and the Diggers ſeverall ANSWERS and REPLIES thereunto.</p>
+            <p>ALSO, The manner of Proclaiming the Act againſt the Kingly Office by the Lord Mayor, and eight Aldermen at the Royal <hi>EXCHANGE, LONDON.</hi>
+            </p>
+            <p>WITH Divers Letters concerning the Prince to the Queen Together with the proceedings of Prince Rupert, the Earle of Oſ<g ref="char:EOLhyphen"/>mond, and the Lord Inchiquin in Ireland,</p>
+            <p>A Fight at Sea, and a fuller relation of the Earle of Montroſſe his deſign for Scotland.</p>
+            <p>London Printed for <hi>R.W.</hi> MDCXLIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="34" facs="tcp:117223:2"/>
+            <div type="part">
+               <head>The Committee at Goldſmiths Hall made report of ſome obſtruction <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> find in perfecting the compoſitions of many Delinquents: whereupon the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> paſſed ſeverall Votes, <hi>viz.</hi>
+               </head>
+               <p n="1">1 That the Clerks of the Houſe ſhall ſearch and peruſe the Journall Books of both Houſes, touching ſuch fines as have bin immediatly impoſed upon any per<g ref="char:EOLhyphen"/>ſon by both or either Houſe, 2 That the ſame be forthwith certified and tranſ<g ref="char:EOLhyphen"/>mitted to the Committee at Goldſmiths Hall. 3 That all perſons as have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the 20 day of <hi>March,</hi> 1642 entred upon, or ſhall hereafter enter upon or poſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> themſelves of the eſtate of any Delinquent, by vertue of any extent, morgag, for feiture, or otherwiſe, ſhall pay into the Treaſury at Goldſmiths hall ſuch ſum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſums of money as the ſaid Delinquents ſhould or ought to have paid for ſo much of his eſtate, as any ſuch perſon hath ſo entred upon &amp; poſſeſſed, according to the reſpective rules preſcribed by authority of Parl. and upon payment of the fine for the Delinquent, the Creditor ſhall enjoy the eſtate, as well till the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>paid him, as till his own debt be fully ſatisfied. 4 That if any Delinquent ſhall ſubmit to his compoſition and joyn in ſecurity for the ſame to any perſon, for ſo much as the fine of ſuch Delinquents ſhall amount to, That then every ſuch De<g ref="char:EOLhyphen"/>linquent ſhall be repoſteſt and reſtored unto his eſtate, upon ful ſatisfaction g<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to ſuch perſons, according to his former debt and preſent disburſment to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commonwealth. And in caſe ſuch Delinquents ſhal not joyn, that then ſuch e<g ref="char:EOLhyphen"/>ſtate after the ſaid debt and fine ſatisfied, ſhall be confiſcated, and revert to the Commonwealth. 5 That in caſe any perſon having ſuch an extent, or being <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> poſſeſt of any Delinquents eſtate, ſhal not before the 1 day of Aug. next deliver in a particular thereof to the Commiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gold<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>miths Hall, and pay in and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the fine and compoſition, That then the eſtate ſhalbe forthwith ſeized and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſtred to the uſe of the Common wealth, &amp;c.</p>
+               <p>We have certain intelligence by an expreſſe ſent of purpoſe from the Nor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that upon Tueſday laſt at Balvenic, upon Spey ſide, by a party of a hundred <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> twenty horſe, commanded by Lieut. Gen. Leſly to attend theſe fields under <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conduct of Col. Ker, Lieut. Col. Hacket, Lieu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Col. Strachen, the Lord hath deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted the moſt conſiderable part if not all the ſtrength of the Rebels in the Nor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the number of twelve hundred taken priſoners, and amongſt thoſe, the no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> L. Rae with his moſt conſiderable officers, and many conſiderable Gentlement and Officers of the name of Mickinny. Upon this ſurprizal and overthrow <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>aleto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Gourdon,</hi> and the reſt, fled further North, and ſent to <hi>David Leſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> for Treaty, which was harkened to.</p>
+               <p>
+                  <hi>Oxford</hi> May 20. This morning as the General was going to Church, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Moody</hi> brought a Letter from Col. <hi>Reynolds,</hi> who was ſent in purſuit of <hi>Thomſon,</hi> wherein was ſignified that Major <hi>Butler</hi> being ſent with a ſelect party of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to fall into <hi>Thomſons</hi> quarters, he being gone from <hi>Northampton</hi> to a town <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Wellinborough,</hi> towards <hi>Rutla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dſhire,</hi> where all his party were ſurprized, but <hi>Th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſon</hi> eſcaped into a Wood, of which having intelligen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e we purſued him, beſet <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wood and ſent a party into the Wood where they found him wel mounted, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> being alone, yet rid up to our par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, and deſperately ſhot a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ornet, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> another, and retreated to his Buſh, receiving two ſhots; when they began <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to draw near unto him he charged again his piſtol, and received another ſhot <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> retreated; the third time he came up (for he ſaid he ſcorned to take <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:117223:2"/>Major <hi>Butlers</hi> Corporall had Col. <hi>Reynold</hi> his carbine, which being charged with ſeven Bullets gave <hi>Thompſon</hi> his deaths wound.</p>
+               <p>The Lieutenant of the Oxfordſhire Troop who joyned with <hi>Thompſon</hi> is like<g ref="char:EOLhyphen"/>wiſe taken who it ſeemeth ſeized on the Magazine at Northampton, and the Ex<g ref="char:EOLhyphen"/>cize money, and with 13 men kept the town in awe.</p>
+               <p>
+                  <hi>Tueſday. May</hi> 22 LEtters out of <hi>Holland</hi> certifie, That the Scots Commiſ. are gone to<g ref="char:EOLhyphen"/>wards their own Country, they very ſadly took their leave of their declared King, praying, <hi>that God would turn his heart, and incline his ſpirit to hear<g ref="char:EOLhyphen"/>ken to good Councell.</hi> He bad them return to their duty, or elſe he ſhould meet with them another time. The Lord <hi>Montroſſe</hi> is haſtning alſo for <hi>Scotland,</hi> with many Officers and Gentlemen, to whom comes ſuch Forces, as <hi>Germany, Den<g ref="char:EOLhyphen"/>marke,</hi> and <hi>Sweden</hi> do ſend by way of aſſiſtance; it is ſaid they will in all amount to 1000 Horſe, and 4000 Foot, and <hi>Montroſſe</hi> is made Gen. for the North of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> the Royal Engliſh boaſt much at the coming thither of 7000 Armes from <hi>Sweden,</hi> and expect great news from <hi>Ireland:</hi> the Prince is going for <hi>France.</hi>
+               </p>
+               <p>Ordered that the Committee of the Army take care for diſpietſing amongſt the ſeverall Reg. of the Army the Acts of Parl. for taking off f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee quarter to the end the Soldiers may take notice thereof, and not be burdenſom to the country.</p>
+               <p>Ordered that the Councell of State do take care, that the ſequeſtred Tymber of <hi>Tinmouth</hi> and <hi>Carliſle,</hi> be imployed towards the ſupply and fortifying of thoſe Gariſons. Mr. <hi>Milling<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on</hi> was ordered to bring in an Act impowring commitees to oaths in ſeverall caſes, and particul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rly, that the committee at Haberdaſhers have power to give an oath to Witneſſes.</p>
+               <p>There is come forth in Print a paper; called, <hi>The Levellers Deſign diſcovered,</hi> ſaid to be written by <hi>Henry Den,</hi> an Actor in this Tragedy, the effect whereof, take thus:</p>
+               <p>The firſt and great occaſion of this unexpected Mutiny, was this: Our Regi<g ref="char:EOLhyphen"/>ments, with ſome others, were by Lot deſigned for the ſervice of <hi>Ireland.</hi> The ſervice we granted both very honorable, and alſo neceſſary, for the prevention of War, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing of peace in this Nation: Yet did we believe that there ſtood be<g ref="char:EOLhyphen"/>tween us and Ireland, an ingagement made by the Army, at that famous Rende<g ref="char:EOLhyphen"/>vouz at <hi>Triplo Heath,</hi> June 5. 1647 binding us neither to ſuffer dividing nor diſ<g ref="char:EOLhyphen"/>banding of this Army: untill ſuch ſatisfaction were given, as to that ingagement required: It was thought eſſentially conducing to the ſatisfaction of the Army, to the reconciliation of diſterenco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, to the procuring of Nationall freedom, and to the relief of Ireland: To require ſuch a Councell, to be ſet up again in the Army, conſiſting of two Commiſſion Officers and two Agirators, choſen by eve<g ref="char:EOLhyphen"/>ry Reg. of Horſe or Foot together with the concurring generall Officers. In this we were bery bold (I do not ſay wiſe) propounding to his Excellency this con<g ref="char:EOLhyphen"/>dition, to be performed before we could ſubmit unto his Excellencies order: this performed, we were contented to refer our ſelves to the ce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſure of this Coun<g ref="char:EOLhyphen"/>cell. That which gave us boldneſſe herein, and that which beguiled us, was this: That we did not conceive how the engagement, could poſſibly admit of a diſ<g ref="char:EOLhyphen"/>penſation.</p>
+               <p>Such a Councell being by that engagement appointed, as a Repreſentative of the Army, ought (as we did then believe) to be ſtill continued, unleſſe we would prove perfidious Covenant-breakers. I could not (I confeſſe) unty this knot: but herein I was entangled and enſnared; and therefore, for that preſent, thought my
+<pb n="36" facs="tcp:117223:3"/>ſelfe bound in duty to God and men, to proſecute this e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gagement: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was (many being of the ſame mind) that 12 Troops of Horſe were drawne toge<g ref="char:EOLhyphen"/>ther and looking upon ſuperior Commanders, as tyrannical Covenant break<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s, we marched contrary to his Excellencies expreſſes, being heightned with the zeal of the performance of our Engagement. And touching this thing we were further perſwaded that it did hold forth ſuch ſtength of reaſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that the greateſt part of the Army would ſuddenly have joyned with us: and this was the cauſe why I joyned with that party dividing from the Army, notwithſtanding th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> appeared leſſe ſafety and greater hazard: &amp; I believe this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord drew on many <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſt hearted men, who did co<g ref="char:cmbAbbrStroke">̄</g>ſcientiouſly ſeek to make good that engagement. But that the ſnare may be broken, and no more be intangled, I ſhall declare what ſatisfaction I have received, that ſo I may give the ſame ſatisfaction unto others.</p>
+               <p>
+                  <hi>Such a Councell indeed, the engagement required, and ſuch a Councell was conſtituted in the Army, acting, and tranſacting of matters pertaining to the diſcipline of the Army. And ſo long was this Councell continued, untill the inconveniencies thereof was ſo far manifeſt; that moſt of the Regiments of Horſe and foot did petition his Excellencie to ſend back the ſeverall A<g ref="char:EOLhyphen"/>gitators unto their reſpective Regiments, untill he ſhould be pleaſed to re<g ref="char:EOLhyphen"/>ſummon them: profeſſing a willingneſs in themſelves, to ſubmit unto his Ex<g ref="char:EOLhyphen"/>cellency with his Councell of War, according to the priſtine diſcipline of the Army. His Excellency having recieved theſe Petitions did not immediately ſend back the Agitators (as requeſted) But having firſt ſummoned a Coun<g ref="char:EOLhyphen"/>cell, and communicated the Petitions unto them; it was by them concluded, that according to the Petitions of the ſeverall Regiments, the Councell of Agitators should be diſolved, untill his Ezcellency ſhould ſee cauſe to re<g ref="char:EOLhyphen"/>ſummon them. Now this being ſo, his Excellency cannot be charged was th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lation of that engagement, neither doth there remain any obligation on his Excellency to have continued or revived any ſuch Councell, much loſſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> warrantable in the Souldiery of the Army; to aſſume that power to them<g ref="char:EOLhyphen"/>ſelves, ſeeing they ſuffered a diſſolution by the ſame power, by which they had their first conſtitution.</hi>
+               </p>
+               <p>And her complaint ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſperating the minds of ſome, is, <hi>that one tyrant is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> down, &amp; another ſet up in his room</hi> I confeſſe this complaint were of great weight if it were true. But truly I ſuppoſe this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſeth from the want of diſcerning true Government from tyranny, I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the difference between the one and the other, and I deſire other men may diſcerne it. A tyrant makes his will the law, the o<g ref="char:EOLhyphen"/>ther makes the law his will.</p>
+               <p>Another thing that hath much diſturbed the minds of men, and filled <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with diſcontent is the ſlow motion of the Parliament, as to the taking away of oppreſſions, and eaſing the grievances of the people. In anſwer to this, we are <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conſider the Parliament before, and after t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Armies entrance into London. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the former conſideration, before the Armies entrance into London, I am ſo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from admiring their ſlow motion, that it is a wonder to me that they moved at all any other way then backward: And I do admire the great providence of
+<pb n="37" facs="tcp:117223:3"/>God, who withheld them from turning all things upſide down, while the Houſe was filled with ſo many men of corrupt intereſts. As to the Parl. in the ſecond conſideration, ſince the Armies approach to London, we have cauſe to bleſſe God that they have done ſo many things for us, which our eyes have ſeen, and what is not yet done, is in promiſe already performed unto us; with aſſurance, of ſuch ce<g ref="char:EOLhyphen"/>lerity, as matr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs of ſo great weight will poſſibly admit.</p>
+               <p>And for anſwer unto this complaint, there needeth not any to a patient ſpirit, and the impatient are not capable of an anſwer.</p>
+               <p>In concluſion of this I ſhall declare my thoughts, that although ſome men do not ceaſe to caſt duſt in the faces of Parl and Councel of the army, yet hath not that cloud been thick to hinder the appearance of thoſe beams of Juſtice, Mercy, Pit<g ref="char:EOLhyphen"/>ty, Clemency, Moderation, which ſhine forth in them, which have drawn me to ſo reverend an eſteem of both as I cannot conveniently ſe: forth, leſt I ſhould incur ſuſpicion of falling from one extream into another.</p>
+               <p>
+                  <hi>Wedneſday.</hi> THe Parliament took into conſideration theſe enſuing Reſolves, concerning Delinquents, and voted as followeth: <hi>Reſolved vpon the queſtion by the Commons aſſembled in Parl.</hi> That the Reports of all ſuch fines as have not paſt either Houſe, ſhal be forthwith drawn up and preſented to the com<g ref="char:EOLhyphen"/>miſſioners mentioned in the Act, en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ituled, <hi>an Act preſcribing certain times to Delinquents for perfecting their compoſitions,</hi> for their approbation in order to a fi<g ref="char:EOLhyphen"/>nal diſcharge. <hi>Reſolved, &amp;c.</hi> That the ſaid Reports ſhall be made to the Com<g ref="char:EOLhyphen"/>miſſioners in order of time, as they were ſet and not otherwiſe. <hi>Reſolved, &amp;c.</hi> That ſuch Reports being made, and the fines allowed and confirmed by the ſaid Commiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a finall diſcharge ſhall iſſue forth to every ſuch compounder, according to the authority and directions expreſſed in the ſaid Act: And if any Compoun<g ref="char:EOLhyphen"/>der ſhal not pay in his whole Fine within 6 weeks after his Compoſition ſhal be allowed and confirmed as aforeſaid, that then he ſhall incur the pen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lties expreſ<g ref="char:EOLhyphen"/>ed in the aforeſaid Act. <hi>Reſolved, &amp;c.</hi> That the Caſes of all Delinquents compo<g ref="char:EOLhyphen"/>unders, who have petitioned for mitigation of their compoſitions, and all ſuch whoſe Reports are not yet made to this Houſe, and are ordred to be ſpecially re<g ref="char:EOLhyphen"/>ported, except all ſuch as are ſecluded by the vote made the 19 of <hi>May,</hi> 1649 ſhal be and are hereby referred unto the commiſ. at Goldſmiths hal, to hear and deter<g ref="char:EOLhyphen"/>mine all the ſaid caſes, the ſaid commiſ. proceeding therein according to therules for compoſition given them by the Houſe, and according to ſuch articles as the compounders hath juſt right unto, the ſaid Articles being allowed and confirmed by both or either Houſe of Parliament.</p>
+               <closer>
+                  <signed>
+                     <hi>H. Scobel, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ler. Parl.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="act">
+               <head>An Act declaring and conſtituting the people of <hi>England</hi> to be a Common<g ref="char:EOLhyphen"/>wealth and free State</head>
+               <p>BE it declared and enacted by this preſent Parl. and by the authority of the ſame, that the people of England and of all the Dominions and Territories thereunto belonging are and ſhall be, and are hereby conſtituted, made, and eſta<g ref="char:EOLhyphen"/>bliſhed to be a Common-wealth and free State: and ſhall from henceforth bee governed as a Common wealth and free State, by the ſupream authority of this nation, the repreſentatives of the people in Parl. and by ſuch as they ſhal ap<g ref="char:EOLhyphen"/>point and conſtitute as officers and Miniſters under them for the good of the people, and that without any Kng or houſe of Lords.</p>
+               <closer>
+                  <signed>Hen. Scobel. Cler, Parl.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="38" facs="tcp:117223:4"/>
+               <head>The Head Quarters of the Army this night at Odiam, his Excellency ad<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceth to morrow to Portſmouth, to prevent the jealouſies that the Levelling par<g ref="char:EOLhyphen"/>ty intend to make a head there.</head>
+               <p>
+                  <hi>Thurſday, May</hi> 24.</p>
+               <p>THe Lord Gen. moved by a Letter to the Houſe, that a Lecture for expoſition of the Holy Scriptures, may be erected at Oxford, This buſineſſe was refer<g ref="char:EOLhyphen"/>red to the Commitee for Oxford to conſider of maintenance, and able Ortho<g ref="char:EOLhyphen"/>dox Divines to be Lecturers.</p>
+               <p>Ordered that it be referred to the Councell of State, to take care for the re<g ref="char:EOLhyphen"/>pairing and fortifying of the Caſtles in Kent, of Sandowne, Walmer, and Deale.</p>
+               <p>Many other particular buſineſſes were debated this day, <hi>viz.</hi> The eaſe of poor Widdowes and Orphans, the further debate referred till Saturday next. 2. The condition of Reformadoes and other Souldiers who want their arrears. 3. For ſuch as deſired to double their ſums of Money lent upon the ſecurity of Deanes and Chapters Lands. 4. Ordered that an Act be brought in for Deligates to determine matters concerning Marriage. 5. It was Ordered the tuition of the late Kings Children, ſhould be committed to the Counteſſe of Leiceſter, and three thouſand pound out of the Revenue allowed for their maintenane.</p>
+               <p>
+                  <hi>Friday, May</hi> 25.</p>
+               <p>THe Houſe paſſed the Act for ſetling the Militia of the Hamlets of the Tow<g ref="char:EOLhyphen"/>er of London, which is as followeth.</p>
+               <p>BE it enacted by the Commons in Parliament aſſembled, That Major Gen. <hi>Skippon,</hi> Col: <hi>Francis West,</hi> Lieut of the Tower of <hi>London; Thomas Hubb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tt, Solomon Sm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th, Maurice Thompſon, Hillary Mempris</hi> and <hi>George Cooper</hi> Eſq Col. <hi>Iohn Ven, Col. Francis Zachary,</hi> Col <hi>William Willoughby,</hi> Col. <hi>Iohn White,</hi> Lieut. Col. <hi>Wil: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>evet, Michaell Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſome</hi> Gent. Capt. <hi>Iohn King</hi> capt. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leftblank; <hi>Manur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Capt. <hi>Iohn Taylor,</hi> Capt. <hi>Henry Weſt.</hi> Capt. <hi>Robert Hackwell,</hi> Capt. <hi>Robe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nul<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> Mr. <hi>Cook of Stepn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y;</hi> Mr. <hi>Wil. Pennoyer,</hi> Mr. <hi>George Wilmore,</hi> Mr. <hi>Edward Au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> Mr. <hi>Iohn Hazel,</hi> Mr. <hi>Richard Tyler,</hi> Mr. <hi>Iohn Hoxton,</hi> Mr. <hi>Robert Crowtry.</hi> Mr. <hi>Fulk Wormlayton</hi> Mr. <hi>Thomas Hall,</hi> Mr. <hi>Oſmond Coppin.</hi> Mr. <hi>Tho. Fawſon.</hi> Mr. <hi>Tho. Naſh,</hi> Mr. <hi>Richard Loton,</hi> Mr. <hi>Abraham Jeſſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> Mr. <hi>Francis Reynoldſon.</hi> Mr. <hi>An<g ref="char:EOLhyphen"/>thony Grace.</hi> Mr. <hi>Abraham Clark.</hi> and Mr. <hi>John Beck</hi> Gent. are hereby made and conſtituted a Committee; and that they, or any five or more of them, ſhal have power and are hereby authorized, to act, ſettle and order the <hi>Militia,</hi> with in the Hamblers of the Tower of London, and by their warrants or other wiſe, to reqire the aſſiſtance of all Conſtables, Headboroughs, and other inhabitants whatſoever, and for the refuſing of their or any of their aſſiſtance therein, to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> priſon their perſons, as they ſhall ſee cauſe. And be it further ordained and e<g ref="char:EOLhyphen"/>nacted, that the ſaid committee, or any five or more of them, ſhall have power to aſſemble and call together all the inhabitants within the ſaid Hamble<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and them to charge with Horſe or foot arms, according to the reſpective abilitie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and capacityes as occaſion ſhall ſerve. And it is further ordained, that the ſaid committee, or any five or more of them, ſhall hereby have ful power and autho<g ref="char:EOLhyphen"/>rity to aſſemble, muſter, array, and weapon, or cauſe to be aſſembled, muſtered,
+<pb n="39" facs="tcp:117223:4"/>arrayed and weaponed, all ſuch horſe and foot forces, within the ſaid Ham<g ref="char:EOLhyphen"/>lets, and to form them into companies. Troops and Regiments; and to make, nominate and appoint Collonels Lievt. col. Majors, Captains, and all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ther Officers of war &amp; to grant commiſſions unto them, authorizing them reſ<g ref="char:EOLhyphen"/>pectively to train, muſter, and diſcipline according to order of war, the ſaid Horſe and foot forces; and to lead, conduct and imploy them for the ſuppreſſion of all Rebellions, inſurrections, Tumults or invaſions. that may happen within the ſaid Hamblets from time to time; and further to authorize them with the ſaid forces, to oppoſe, ſeize, ſecure, diſarm, kill or ſlay, all ſuch perſons as ſhall cauſe or make any rumults, inſurrections or invaſions, or levy any force againſt authority of Parliament and to lead and conduct them out of the ſaid Hamblets for the purpoſe aforeſaid, if by Parl. they ſhal be thereunto ordered or required. And it is further enacted and ordained, That the ſaid committee, or any five or more of them ſhall have hereby full power and authority to impoſe a fine, not exceeding fourty ſhillings, on every perſon that ſhall be charged to find or ſerve on horſe, and twenty ſhillings on every foot Souldier, for every day that they ſhall make default of their aforeſaid ſervice, and to levy the ſame reſpective fines by diſtreſſe, and for non-payment thereof, or want of ſufficient diſtreſſe, to im<g ref="char:EOLhyphen"/>priſon their perſons by the ſpace af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en dayes, and not longer, for every ſuch de<g ref="char:EOLhyphen"/>fault: And alſo, that the ſaid Committee, or any five or more of them, ſhall hereby have full power and authority to diſarme all Papiſts, Delinquents, and Diſ-affected perſons, and all ſuch as ſhall raiſe, or endeavour to raiſe any Tu<g ref="char:EOLhyphen"/>mults, Inſurrections or Invaſions, and to ſecure and impriſon their perſons if they ſee cauſe; and to put the Arms of Papiſts, and Delinquents, into the hands of ſuch well-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffected perſons as they ſhall thinke fit to ſerve with the ſaid Armes, and to cauſe them to pay to ſuch as ſhall ſo ſerve with their Armes, ſuch reaſo<g ref="char:EOLhyphen"/>nable ſallary as they ſhall thinke fit, not exceeding two ſhillings the day and nights duty, and for default of payment thereof, to levy the ſame by diſtreſſe, or to impriſon their perſons as aforeſaid.</p>
+            </div>
+            <div type="letter">
+               <p>THe Lord Major of <hi>London</hi> having received the Order of the Houſe before mentioned, for proclaiming the Act for making null the Kingly Office, His Lordſhip iſſued forth precepts to every Alderman of the reſpective Wards, to this effect:</p>
+               <p>
+                  <hi>BY vertue of an Order of Parliament, for proclaiming the Act against the Kingly Office in the City of</hi> London; <hi>Theſe are to require you p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſonally to meet and make your appearance at</hi> Guild-hall London, <hi>to morrow in the forenoon, at the hour of ten of the clooke preciſely, as you will anſwer the contrary at your perill. Dated the</hi> 22 <hi>of</hi> May, 1649.</p>
+               <closer>
+                  <signed>BY THE MAYOR.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <p>This day about the time, and at the place aforeſaid, the Lord Major and ſeven Aldermen met, and had ſome debate of the buſineſſe: ſome deſired a full Court, and were unwilling to engage further then the reſt of their Brethren: Others were unſatisfied without an Act authorizing them to do it. So that at laſt, the buſineſſe was referred till another day, and a Committee choſen to ſatisfie the Houſe con<g ref="char:EOLhyphen"/>cerning the ſame.</p>
+               <pb n="40" facs="tcp:117223:5"/>
+               <p>As his Excellency the Lord Generall came from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he went to view the diggers at St. Geo: Hill in Surry, with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and attendants, where they found about 12. of them hard at work <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ongſt them one Wiſtanley was the chief Speaker to whom <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Queſtions were propounded by the Officers, and the Lord <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> made a ſhort ſpeech by way of admonition to them, and this <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ly returned ſober anſwers, though they gave little ſatisfaction (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at all) in regard of the ſtrangeneſſe of the action. It was urged <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Commons were as juſtly due to the Lords as any other Lands. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> anſwered that theſe were Crown Lands, where they digged and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the King that poſſeſt them by the Norman Conqueſt being dead, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> were returned againe to the Common people of England, who <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> improve them if they would take the paines, that for thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would come dig with them, they ſhould have the benefit equall <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> them, and eat of their bread but they would not force any, applying <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the Golden rule, to do to others as we would be done unto, ſome o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ficers wiſht they had no further plot in what they did, and that no <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was intended then what they did pretend.</p>
+               <p>As to the barrenneſſe of the ground, which was objected <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a diſcouragement, the diggers anſwered, they would <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their endeavours, and leave the ſucceſſe to God, who <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> promiſed to make the barren ground fruitfull. They carry them <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very civilly and fairly in the country, and have the report of ſobe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> neſt men: ſome Barley is already come up, and other fruits form<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> but was pulled up by ſome of the envious Inhabitants thereabout, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are now ſo far convinced as to promiſe not to injury them for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ture: the ground will probably in a ſhort time yeeld them ſome <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their labors, how contemptible ſoever they do yet appear to be.</p>
+               <p>The Act againſt the Kingly office was this day proclaimed by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord Mayor and eight Aldermen of the City of London at the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Exchange: they went on Horſeback in great State, with the City <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> carryed before them.</p>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
